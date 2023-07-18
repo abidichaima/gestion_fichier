@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\repository\BatchRepository.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\config\BatchProcessor.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\config\ExceptionSkipPolicy.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\controller\BatchJobController.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\SpringBatchExampleApplication.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\config\BatchItemWriter.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\entity\Batch.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\config\SpringBatchConfig.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\config\JobCompletionNotificationListener.java
+C:\Users\user\Desktop\spring-batch-file-upload\src\main\java\com\javatechie\spring\batch\listener\StepSkipListener.java
