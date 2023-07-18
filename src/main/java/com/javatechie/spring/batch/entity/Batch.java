@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "BATCH")
+@Table(name = "BATCH_INFO")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
